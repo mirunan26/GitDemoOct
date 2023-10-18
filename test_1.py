@@ -1,3 +1,3 @@
-x = 1
-print('hey')
-print(x+1)
+x = 678
+y = 329
+print(x + y)
